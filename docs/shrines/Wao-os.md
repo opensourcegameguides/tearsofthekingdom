@@ -13,7 +13,7 @@ Wao-os Shrine (Lever Power) in The Legend of Zelda: Tears of the Kingdom is a sh
 1. Enter the shrine and drop down from the entry tunnel into a cavern with a pond. Collect Sticky Lizard, Chillfin Trout, Glowing Cave Fish, Brightcap, and Chilishroom here.
 2. Climb up the cavern's natural ramp on the left to proceed.
 
-![](../images/wao-os-03.jpg){: style="width:49%"}
+![](../images/wao-os-03.jpg)
 
 
 3. Past the ore deposit, you'll find the shrine. The goal is to fling an iron ball into a bowl and hit the big target to open a gate.
@@ -25,7 +25,7 @@ Wao-os Shrine (Lever Power) in The Legend of Zelda: Tears of the Kingdom is a sh
 5. Pick up the iron box and lift it high above the half of the white slab hanging over the chasm. Drop the box and the bowl-ball combo will fling to the other side, hitting the big target. The gate opens, granting access to a wooden platform.
 6. Attach the wooden platform to the ground side of the white slab seesaw, covering only the ground half.
 
-![](../images/wao-os-06.jpg){: style="width:49%"}
+![](../images/wao-os-06.jpg)
 
 7. Stand on the wooden plank and use Ultrahand to pick up the box again. Raise it high over the other half of the white slab and drop it to get flung into the air.
 8. Glide using the glider towards the entrance and land on the platform where the treasure chest is located. Open it to obtain a Spicy Elixir.
