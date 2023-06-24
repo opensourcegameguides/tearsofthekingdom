@@ -1,0 +1,10 @@
+site_name: "OGSS - Zelda: Tears of the Kingdom Walkthrough"
+repo_url: https://github.com/opensourcegameguides/tearsofthekingdom
+theme:
+  name: bootstrap4
+nav:
+  - Home './index.md'
+markdown_extensions:
+  - attr_list
+plugins:
+  - search
