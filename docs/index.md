@@ -18,3 +18,4 @@
 - [Kyononis](shrines/Kyononis.md)
 - [Usazum](shrines/Usazum.md)
 - [Wao-os](shrines/Wao-os.md)
+- [Wao-os](shrines/Jiosin.md)
