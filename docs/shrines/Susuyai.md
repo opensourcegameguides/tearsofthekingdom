@@ -4,8 +4,8 @@
 
 Susuyai Shrine can be found on the ground in plain sight in the Passeri Greenbelt, southwest of Lookout Landing. This shrine features a unique challenge involving a "spinning device" and requires careful navigation.
 
-![](../images/Susuyai-1.jpg){: style="width=100%"}
-![](../images/Susuyai-2.jpg){: style="width=100%"}
+![](../images/Susuyai-1.jpg){: style="width: 100%"}
+![](../images/Susuyai-2.jpg){: style="width: 100%"}
 
 ## Puzzle Solutions
 
@@ -20,11 +20,11 @@ To progress through the shrine, follow these steps:
 7. Hop on the platform and aim an arrow upwards at the wheel to turn it on and set the platform in motion. Use the arrows obtained from the previous chest to achieve this.
 8. Finally, exit the shrine and continue your adventure.
 
-![](../images/Susuyai-3.jpg){: style="width=100%"}
-![](../images/Susuyai-4.jpg){: style="width=100%"}
-![](../images/Susuyai-5.jpg){: style="width=100%"}
-![](../images/Susuyai-6.jpg){: style="width=100%"}
-![](../images/Susuyai-7.jpg){: style="width=100%"}
+![](../images/Susuyai-3.jpg){: style="width: 100%"}
+![](../images/Susuyai-4.jpg){: style="width: 100%"}
+![](../images/Susuyai-5.jpg){: style="width: 100%"}
+![](../images/Susuyai-6.jpg){: style="width: 100%"}
+![](../images/Susuyai-7.jpg){: style="width: 100%"}
 
 ## Treasure Chests
 
