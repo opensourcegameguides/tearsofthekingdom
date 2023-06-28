@@ -19,6 +19,6 @@
 - [Usazum](shrines/Usazum.md)
 - [Wao-os](shrines/Wao-os.md)
 - [Jiosin](shrines/Jiosin.md)
-- [Tinaten](shrines/Tinaten.md)
+- [Teniten](shrines/Teniten.md)
 - [Susuyai](shrines/Susuyai.md)
 - [Mayachin](shrines/Mayachin.md)
