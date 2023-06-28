@@ -8,8 +8,8 @@ Upon your first arrival back on the surface of the Kingdom of Hyrule, there are 
 2. Keep an eye out for fallen debris and rocks from the Sky Islands above that now litter the landscape. These spots often contain materials that can only be found in the sky.
 3. The first landmark you'll encounter is the Ranch Ruins, featuring a track, a ruined tower, and debris. Here, you can find a Korok hiding under a rock in the tower and a chest holding 20 rupees under an awning along the track.
 
-![](../images/hyrulekingdom-00.jpg){: style="width:49%"}
-![](../images/hyrulekingdom-01.jpg){: style="width:49%"}
+![](../images/hyrulekingdom-00.jpg){: style="width:100%"}
+![](../images/hyrulekingdom-01.jpg){: style="width:100%"}
 
 4. Watch out for Bokoblins in the area, as they may carry useful ingredients or elemental fruit that they can throw at you.
 5. Proceed beyond the ruins to find the Ranch Ruins Cave, where you'll encounter a new enemy type called Horriblin. Defeat them by shooting them with an arrow to stun them and rush in for the final blow.

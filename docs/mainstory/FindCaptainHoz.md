@@ -10,16 +10,16 @@ Exit through the north gate under Purah's observatory. Note the fallen ruin outs
 
 Explore the ruins and tents for loot. Interact with the [Kyonosis Shrine](/shrines/Kyonosis) to set it as a fast travel spot and enter for a combat tutorial and Light of Blessing. Use the Ultrahand to open the castle front gate. Wander around the castle, which is mostly in ruin but with fewer enemies. Reach the First Gatehouse and note that metal weapons are less durable due to corrosion. You can increase their durability using certain materials.
 
-![](../images/findcaptainhoz-01.jpg){: style="width:49%"}
-![](../images/findcaptainhoz-02.jpg){: style="width:49%"}
-![](../images/findcaptainhoz-03.jpg){: style="width:49%"}
+![](../images/findcaptainhoz-01.jpg){: style="width:100%"}
+![](../images/findcaptainhoz-02.jpg){: style="width:100%"}
+![](../images/findcaptainhoz-03.jpg){: style="width:100%"}
 
 ## Finding Captain Hoz
 
 To find Captain Hoz, ascend the balconies and speak to him. After updating him on the situation, a vision occurs nearby, prompting a change of plans. Captain Hoz instructs you to report back to Purah. If you wish to explore further, drop down on the other side of the First Gatehouse. Find a broken stone eagle hiding a Korok's pinwheel on a rampart. Travel left to reach the ruined Dining Hall, where you can find valuable items.
 
-![](../images/findcaptainhoz-04.jpg){: style="width:49%"}
-![](../images/findcaptainhoz-05.jpg){: style="width:49%"}
+![](../images/findcaptainhoz-04.jpg){: style="width:100%"}
+![](../images/findcaptainhoz-05.jpg){: style="width:100%"}
 
 ## Returning to Purah 
 

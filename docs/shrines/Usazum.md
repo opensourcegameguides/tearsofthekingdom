@@ -4,8 +4,7 @@
 
 Usazum Shrine is located in the Hyrule Ridge. The shrine is absent, but you can find the partial shrine ring empty on the field west of Safula Hill and north of the Dalite Forest. In this shrine quest, you are tasked with retrieving a crystal and presenting it at the shrine. A light emits from the shrine, pointing the way to the crystal.
 
-![](../images/usazum-00.jpg)
-
+![](../images/usazum-00.jpg){: style="width:100%"}
 ## Treasure Chests
 
 There are no specific treasure chests mentioned for Usazum Shrine.

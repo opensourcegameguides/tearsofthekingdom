@@ -10,9 +10,9 @@ The Great Sky Islands serve as the hub area for the Sky Kingdom and contain the 
 4. Reach and enter the Ukouh Shrine, located to the left of the Temple.
 5. Complete the Shrine test, utilizing the Move ability. Refer [here](/shrines/Ukuoh) for the full shrine guide.
 
-![](../images/greatskyislands-00.jpg){: style="width:49%"}
-![](../images/greatskyislands-01.jpg){: style="width:49%"}
-![](../images/greatskyislands-02.jpg){: style="width:49%"}
+![](../images/greatskyislands-00.jpg){: style="width:100%"}
+![](../images/greatskyislands-01.jpg){: style="width:100%"}
+![](../images/greatskyislands-02.jpg){: style="width:100%"}
 
 ## In-isa Shrine
 
@@ -22,7 +22,7 @@ The Great Sky Islands serve as the hub area for the Sky Kingdom and contain the 
 4. Place the raft in the water and cross the river.
 5. Climb the nearby rocks to access the Gutanbac Shrine. Refer [here](/shrines/Ina-isa) for the full shrine guide.
 
-![](../images/greatskyislands-04.jpg){: style="width:49%"}
+![](../images/greatskyislands-04.jpg){: style="width:100%"}
 
 ## Gutanbac Shrine
 
