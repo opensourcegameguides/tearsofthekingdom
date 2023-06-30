@@ -22,3 +22,8 @@
 - [Teniten](shrines/Teniten.md)
 - [Susuyai](shrines/Susuyai.md)
 - [Mayachin](shrines/Mayachin.md)
+- [Tajikats](shrines/Tajikats.md)
+- [Kamizun](shrines/Kamizun.md)
+- [Kyokugun](shrines/Kyokugun.md)
+- [Tsutsu-um](shrines/Tsutsu-um.md)
+- [Riogok](shrines/Riogok.md)
