@@ -27,3 +27,7 @@
 - [Kyokugun](shrines/Kyokugun.md)
 - [Tsutsu-um](shrines/Tsutsu-um.md)
 - [Riogok](shrines/Riogok.md)
+- [Ren-iz](shrines/Ren-iz.md)
+- [Sepapa](shrines/Sepapa.md)
+- [Serutabomac](shrines/Serutabomac.md)
+- [Tadarok](shrines/Tadarok.md)
